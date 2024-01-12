@@ -13,11 +13,10 @@ interactive landing page for [moment](https://github.com/adithyasource/moment), 
 
 ## Acknowledgements
 
-### Libraries
-
 <table>
 <tbody>
 <tr>
+<td><b>Libraries</b></td>
 <td><a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a></td>
 </tr>
 </tbody>
